@@ -189,7 +189,6 @@ test_set = [[6.3,2.3,4.4,1.3],[6,3,4.8,1.8],[5.9,3.2,4.8,1.8],[6.7,3.1,4.7,1.5],
 #### Classify
 ```
 classifier = learner.classifier
-test_set.each do |vector|
-  p classifier.classify(vector)
-end
+p classifier.classify([6.3,2.3,4.4,1.3]) # => "versicolor"
+p classifier.classify([6,3,4.8,1.8]) # => "virginica"
 ```
