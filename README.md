@@ -1,6 +1,6 @@
 ### Use case
 
-Given that a Iris dataset as the following
+Given that the [Iris Data Set](http://archive.ics.uci.edu/ml/datasets/Iris) as the following
 
 | Sepal length        | Sepal width           | Petal length  |Petal width|Species|
 | ------------- |:-------------:| -----:|-----:|-----:|
