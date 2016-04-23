@@ -105,7 +105,7 @@ Given that the [Iris Data Set](http://archive.ics.uci.edu/ml/datasets/Iris) as t
 |4.9|2.5|4.5|1.7|virginica|
 |5.1|3.8|1.6|0.2|setosa|
 
-The requirement is predicting the categories of data in the table below
+The requirement is predicting the species of data in the table below
 
 | Sepal length        | Sepal width           | Petal length  |Petal width|Species|
 | ------------- |:-------------:| -----:|-----:|-----:|
