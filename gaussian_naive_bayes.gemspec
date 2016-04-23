@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'gaussian_naive_bayes'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.licenses    = ['MIT']
   s.summary     = "Implement the Gaussian Naive Bayes algorithm for classification"
   s.authors     = ["An Le"]
