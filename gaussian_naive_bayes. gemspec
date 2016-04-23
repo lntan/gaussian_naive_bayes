@@ -1,0 +1,10 @@
+Gem::Specification.new do |s|
+  s.name        = 'gaussian_naive_bayes'
+  s.version     = '0.1.0'
+  s.licenses    = ['MIT']
+  s.summary     = "Implement the Gaussian Naive Bayes algorithm for classification"
+  s.authors     = ["An Le"]
+  s.email       = 'thienan289@gmail.com'
+  s.files       = ["lib/learner.rb", "lib/classifier.rb"]
+  s.homepage    = 'https://github.com/lntan/gaussian_naive_bayes'
+end
