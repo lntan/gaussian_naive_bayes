@@ -192,3 +192,9 @@ classifier = learner.classifier
 p classifier.classify([6.3,2.3,4.4,1.3]) # => "versicolor"
 p classifier.classify([6,3,4.8,1.8]) # => "virginica"
 ```
+
+### References
+
+[Naive Bayes](http://scikit-learn.org/stable/modules/naive_bayes.html)
+
+[Gaussian Naive Bayes](http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html#sklearn.naive_bayes.GaussianNB)
